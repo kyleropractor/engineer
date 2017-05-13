@@ -30,7 +30,8 @@ body {
     color: rgba(0,0,0,0.8);
 }
 .text-vertical-center h3 {
-    color: rgba(0,0,0,0.9);
+    color: black;
+    font-weight:bold;
 }
 
 /* Custom Button Styles */
